@@ -1,0 +1,10 @@
+{
+  "name": "VCall-Alert-Bot",
+  "version": "0.1.0",
+  "type": "module",
+  "dependencies": {
+    "@signalwire/realtime-api": "^3.11.0",
+    "dotenv": "^16.3.1",
+    "node-telegram-bot-api": "^0.63.0"
+  }
+}

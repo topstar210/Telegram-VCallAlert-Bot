@@ -1,1 +1,6 @@
+#for python config
 config.py
+
+# for node
+.env
+/node_modules
